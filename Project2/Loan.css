@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(11, 190, 255);
+}
+
+.title{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.forname{
+    text-align: center;
+}
+
+h4{
+    text-align: right;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+label{
+    margin-top: 10ox;
+
+}
+input{
+    margin-top: 10px;
+
+}
+
+select{
+    margin-top: 10px;
+}
+
+.thanku{
+    text-align: center;
+}
